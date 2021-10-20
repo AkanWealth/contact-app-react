@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "72ee61cb-b2bf-4a6c-bbf0-62428a1d7d73",
+      "name": "Adeyemo Peter",
+      "email": "qa@gmail.com"
+    },
+    {
+      "id": "e6514701-b5de-4891-b174-5266de61d53e",
+      "name": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "9296eab9-20dd-4ef3-9e89-7bf89fcabffa",
+      "name": "testing",
+      "email": "we@gmail.com"
+    },
+    {
+      "id": "18c15cc5-7a76-4cc0-8638-bc86d5f7d615",
+      "name": "Akan Asanga",
+      "email": "akan.asanga@edu"
+    },
+    {
+      "id": "7f405c73-55cd-4c7b-8295-96525ed99857",
+      "name": "Brad Bra",
+      "email": "brad@test.com"
+    }
+  ]
+}
